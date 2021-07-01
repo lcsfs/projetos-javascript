@@ -1,2 +1,2 @@
-# Registrando projetos do curso de Javascript
-Projetos realizados ao longo do curso
+# JavaScript
+Projetos e exercícios realizados durante o curso 
